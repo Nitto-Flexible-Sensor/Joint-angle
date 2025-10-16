@@ -15,7 +15,7 @@
 - Voltage output : 
   https://github.com/Nitto-Flexible-Sensor/Joint-angle/releases/tag/Voltage_output_V1.0
 
- - Multiple measurement :
+ - Multiple measurement : https://github.com/Nitto-Flexible-Sensor/Joint-angle/releases/tag/Multiple_measurement_v1.0
 
  - High-speed :
 
