@@ -12,5 +12,5 @@
 
 ## Software & Document File Download URL
 
-- Voltage output
+- Voltage output : 
   https://github.com/Nitto-Flexible-Sensor/Analog_Output_Demo/releases/tag/V1.0
