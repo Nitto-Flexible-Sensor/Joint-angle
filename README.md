@@ -1,7 +1,7 @@
 # Overview
 
   This section mainly provides measurement applications specialized in joint angle detection using a two-axis sensor. <br>
-  The main categories are listed below.For each measurement, the necessary items, wiring diagrams, and software have been uploaded in the release section. Please download them from the URL link below.
+  The main categories are listed below. For each measurement, the necessary items, wiring diagrams, and software have been uploaded in the release section. Please download them from the URL link below.
 
 ## Categories 
   - Multiple measurement
