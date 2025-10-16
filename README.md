@@ -15,4 +15,8 @@
 - Voltage output : 
   https://github.com/Nitto-Flexible-Sensor/Analog_Output_Demo/releases/tag/V1.0
 
- - Multiple measurement : 
+ - Multiple measurement :
+
+ - High-speed :
+
+ - 3D model : 
