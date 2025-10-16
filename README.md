@@ -1,6 +1,6 @@
 # Overview
 
-  This section mainly provides measurement applications specialized in joint angle detection using a two-axis sensor. 
+  This section mainly provides measurement applications specialized in joint angle detection using a two-axis sensor. <br>
   The main categories are listed below.
 
 ## Categories 
