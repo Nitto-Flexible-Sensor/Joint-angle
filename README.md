@@ -13,7 +13,7 @@
 ## Software & Document File Download URL
 
 - Voltage output : 
-  https://github.com/Nitto-Flexible-Sensor/Joint-angle/releases/tag/Voltage_output_V1.0
+  https://github.com/Nitto-Flexible-Sensor/Joint-angle/releases/tag/Angle_values_​​output_as_voltage(2-axis)_V1.0
 
  - Multiple measurement : https://github.com/Nitto-Flexible-Sensor/Joint-angle/releases/tag/Multiple_measurement_v1.0
 
