@@ -21,6 +21,8 @@
 
  - 3D model : 
 
+note:There are also instructional videos for Multiple Measurement and High-Speed, covering everything from setup to outputting measurement values.
+Each release includes an uploaded MP4 file, so please refer to them if needed.
 
 ## Questions and Requests
 
