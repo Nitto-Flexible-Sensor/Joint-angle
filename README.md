@@ -7,6 +7,7 @@
   - Multiple measurement
   - High-speed
   - Voltage output
+  - BLE Communication
   - 3D model
 
 
@@ -18,6 +19,8 @@
  - Multiple measurement : https://github.com/Nitto-Flexible-Sensor/Joint-angle/releases/tag/Multiple_measurement_v1.0
 
  - High-speed : https://github.com/Nitto-Flexible-Sensor/Joint-angle/releases/tag/High_speed_v1.0
+
+ - BLE Communication : https://github.com/Nitto-Flexible-Sensor/Joint-angle/releases/tag/BLE_Communication_v1
 
  - 3D model : 
 
